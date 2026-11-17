@@ -1,2 +1,3 @@
-# nunziagavitone.github.io.
+# nunziagavitone.github.io
 
+Personal academic website of Nunzia Gavitone.
